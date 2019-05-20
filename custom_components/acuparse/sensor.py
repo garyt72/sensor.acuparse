@@ -1,8 +1,7 @@
 """
 Support for Acuparse weather service.
 
-For more details about this platform, please refer to the documentation at
-https://home-assistant.io/components/sensor.acuparse/
+beta version based on wunderground component from Home Assistant.
 """
 import asyncio
 from datetime import timedelta
