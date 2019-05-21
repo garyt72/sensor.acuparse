@@ -103,8 +103,6 @@ at | all time historical values
 
 
 ## Example
-**Configuration:**
-
 #### configuration.yaml:
 ```yaml
 sensor:
