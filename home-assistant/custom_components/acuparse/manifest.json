@@ -1,1 +1,8 @@
-placeholder
+{
+  "domain": "acuparse",
+  "name": "Acuparse",
+  "documentation": "https://www.home-assistant.io/components/acuparse",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
