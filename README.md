@@ -63,29 +63,29 @@ moon_last_new | When the last new moon occurred
 moon_last_full | When the last full moon occurred
 moon_distance | Moon's current disance from earth in kilometers
 moon_illumination | Percent of moon that is illuminated.
-**??**_temp_max | High temperature 
-**??**_temp_min | Low temperature
-**??**_temp_max_when | When the high temperature occurred
-**??**_temp_min_when | When the low temperature occurred
-**??**_wind_max_mph | Maximum wind speed in mph
-**??**_wind_max_kmh | Maximum wind speed in kph
-**??**_wind_max_dir | Maximum wind direction indicated by cardinal direction (S, SW, WSW, etc)
-**??**_wind_max_when | When the maximum wind speed when was recorded
-**??**_pressure_max_inhg | Maximum atmospheric pressure measured in inhg
-**??**_pressure_min_inhg | Minimum atmospheric pressure measured in inhg
-**??**_pressure_max_kpa | Maximum atmospheric pressure measured in kpa
-**??**_pressure_min_kpa | Minimum atmospheric pressure measured in kpa
-**??**_pressure_max_when | When the maximum atmospheric pressure was recorded
-**??**_pressure_min_when | When the minimum atmospheric pressure was recorded
-**??**_relh_max | Maximum relative humidity
-**??**_relh_min | Minimum relative humidity
-**??**_relh_max_when | When the maximum relative humidity was recorded
-**??**_relh_min_when | When the minimum relative humidity was recorded
-**??**_rain_rate_in_max | Maximum rate rate recorded measured in inches per hour
-**??**_rain_rate_mm_max | Maximum rate rate recorded measured in millimeters per hour
-**??**_rain_rate_max_when | when the maximum rate rate was recorded
-**??**_rain_in_total | Total rain recorded measured in inches
-**??**_rain_mm_total | Total rain recorded measured in millimeters
+??_temp_max | High temperature 
+??_temp_min | Low temperature
+??_temp_max_when | When the high temperature occurred
+??_temp_min_when | When the low temperature occurred
+??_wind_max_mph | Maximum wind speed in mph
+??_wind_max_kmh | Maximum wind speed in kph
+??_wind_max_dir | Maximum wind direction indicated by cardinal direction (S, SW, WSW, etc)
+??_wind_max_when | When the maximum wind speed when was recorded
+??_pressure_max_inhg | Maximum atmospheric pressure measured in inhg
+??_pressure_min_inhg | Minimum atmospheric pressure measured in inhg
+??_pressure_max_kpa | Maximum atmospheric pressure measured in kpa
+??_pressure_min_kpa | Minimum atmospheric pressure measured in kpa
+??_pressure_max_when | When the maximum atmospheric pressure was recorded
+??_pressure_min_when | When the minimum atmospheric pressure was recorded
+??_relh_max | Maximum relative humidity
+??_relh_min | Minimum relative humidity
+??_relh_max_when | When the maximum relative humidity was recorded
+??_relh_min_when | When the minimum relative humidity was recorded
+??_rain_rate_in_max | Maximum rate rate recorded measured in inches per hour
+??_rain_rate_mm_max | Maximum rate rate recorded measured in millimeters per hour
+??_rain_rate_max_when | when the maximum rate rate was recorded
+??_rain_in_total | Total rain recorded measured in inches
+??_rain_mm_total | Total rain recorded measured in millimeters
 at_rain_total_since | When Acuparse first started recording rain fall for the at_rain_??_total sensors.
 
 ### Note
