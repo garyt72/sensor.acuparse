@@ -1,6 +1,6 @@
 # sensor.acuparse
 
-_Custom component to get weather data from your [Acuparse](https://acuparse.com) server for [Home Assistant](https://www.home-assistant.io/)._
+Custom component to get weather data from your [Acuparse](https://acuparse.com) server for [Home Assistant](https://www.home-assistant.io/).
 
 ## Versions  
 platform | tested version
