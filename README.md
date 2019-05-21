@@ -116,7 +116,7 @@ at | all time historical values
 
 ## Example
 ### Note: 
-The sensors will show up in Home Assistant with an `apwx` prefix (eg: sensor.apwx_temp).
+The sensors will show up in Home Assistant with an `apwx_` prefix (eg: sensor.apwx_temp).
 
 #### configuration.yaml:
 ```yaml
