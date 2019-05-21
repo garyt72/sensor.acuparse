@@ -2,11 +2,23 @@
 
 _Custom component to get weather data from your [Acuparse](https://acuparse.com) server for [Home Assistant](https://www.home-assistant.io/)._
 
+## Versions  
+platform | tested version
+:--- | :---
+Home Assitant | 0.92.2
+Acuparse | 2.8.0-release  
+
 ## Installation
+### Acuparse
+1. Using the tool of choice open the `pub` directory (folder) for your Acuparse installation (default is `/opt/acuparse/src/pub`).
+2. Download the _data.php_ file from the `acuparse/src/pub` directory (folder) in this repository.
+3. Place the _data.php_ file in the `acuparse/src/pub` folder.  (there should be other .php files here).
+4. Check that the data page on your Acuparse server displays weather data in json format (http://acuparse-server/data)
+### Home Assistant
 1. Using the tool of choice open the directory (folder) for your HA configuration (where you find `configuration.yaml`).
 2. If you do not have a `custom_components` directory (folder) there, you need to create it.
 3. In the `custom_components` directory (folder) create a new folder called `acuparse`.
-4. Download _all_ the files from the `custom_components/acuparse/` directory (folder) in this repository.
+4. Download _all_ the files from the `home-assistant/custom_components/acuparse/` directory (folder) in this repository.
 5. Place the files you downloaded in the new `acuparse` directory (folder) you created.
 6. Add a sensor `- platform: acuparse` to your HA configuration.
 
