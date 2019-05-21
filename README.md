@@ -29,7 +29,7 @@ custom_components/acuparse/__init__.py
 custom_components/acuparse/sensor.py
 custom_components/acuparse/manifest.json
 ```
-
+---
 ## Configuration
 key | type | description
 :--- | :--- | :---
@@ -113,7 +113,7 @@ lm | last month's historical values
 ty | this year's historical values
 at | all time historical values
 
-
+---
 ## Example
 ### Note: 
 The sensors will show up in Home Assistant with an `apwx_` prefix (eg: sensor.apwx_temp).
@@ -144,7 +144,7 @@ cards:
 ```
 
 
-
+---
 ## Changelog
 
 
