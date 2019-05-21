@@ -115,6 +115,9 @@ at | all time historical values
 
 
 ## Example
+### Note: 
+The sensors will show up in Home Assistant with an `apwx` prefix (eg: sensor.apwx_temp).
+
 #### configuration.yaml:
 ```yaml
 sensor:
@@ -145,5 +148,3 @@ cards:
 ## Changelog
 
 
-# Note: 
-While the platform is called “acuparse” the sensors will show up in Home Assistant as “apwx” (eg: sensor.apwx_temp).
