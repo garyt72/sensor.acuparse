@@ -5,7 +5,7 @@ Custom component to get weather data from your [Acuparse](https://acuparse.com) 
 ## Versions  
 platform | tested version
 :--- | :---
-Home Assitant | 0.92.2
+Home Assitant | 0.93.1
 Acuparse | 2.9.0-release  
 
 ## Installation
