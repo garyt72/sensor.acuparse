@@ -122,7 +122,7 @@ The sensors will show up in Home Assistant with an `apwx_` prefix (eg: sensor.ap
 ```yaml
 sensor:
   - platform: acuparse
-    api_key: YOUR_API_KEY
+    hostname: ACUPARSE_HOSTNAME 
     monitored_conditions:
       - temp
       - feels
